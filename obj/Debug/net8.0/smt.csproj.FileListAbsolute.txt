@@ -1,0 +1,14 @@
+C:\Users\1\OneDrive\Рабочий стол\smt\bin\Debug\net8.0\smt.exe
+C:\Users\1\OneDrive\Рабочий стол\smt\bin\Debug\net8.0\smt.deps.json
+C:\Users\1\OneDrive\Рабочий стол\smt\bin\Debug\net8.0\smt.runtimeconfig.json
+C:\Users\1\OneDrive\Рабочий стол\smt\bin\Debug\net8.0\smt.dll
+C:\Users\1\OneDrive\Рабочий стол\smt\bin\Debug\net8.0\smt.pdb
+C:\Users\1\OneDrive\Рабочий стол\smt\obj\Debug\net8.0\smt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Рабочий стол\smt\obj\Debug\net8.0\smt.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\smt\obj\Debug\net8.0\smt.AssemblyInfo.cs
+C:\Users\1\OneDrive\Рабочий стол\smt\obj\Debug\net8.0\smt.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\smt\obj\Debug\net8.0\smt.dll
+C:\Users\1\OneDrive\Рабочий стол\smt\obj\Debug\net8.0\refint\smt.dll
+C:\Users\1\OneDrive\Рабочий стол\smt\obj\Debug\net8.0\smt.pdb
+C:\Users\1\OneDrive\Рабочий стол\smt\obj\Debug\net8.0\smt.genruntimeconfig.cache
+C:\Users\1\OneDrive\Рабочий стол\smt\obj\Debug\net8.0\ref\smt.dll
